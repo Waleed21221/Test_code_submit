@@ -1,4 +1,4 @@
-Following are the changes which i have made for the refactoring as much as i can.
+Following are the changes which i have made for the refactoring as much as i can. I have change variable names and do some naming convention for better readability which i doesn't mentioned in below points.
 
 BookingController.php
 
